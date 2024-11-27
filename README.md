@@ -1,0 +1,2 @@
+# Tendencias-Salariales-Globales-Un-Estudio-sobre-Factores-Econ-micos-y-Sociales
+El proyecto "Tendencias Salariales Globales: Un Estudio sobre Factores Económicos y Sociales" analiza las tendencias salariales a nivel mundial, considerando variables como la edad, experiencia, educación, industria y ubicación geográfica. A través de la exploración de datos de empleo, se busca entender cómo estos factores influyen 
